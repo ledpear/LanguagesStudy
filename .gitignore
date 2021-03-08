@@ -30,3 +30,13 @@
 *.exe
 *.out
 *.app
+
+#directory
+Debug/
+
+#extension
+*.opendb
+*.db
+*.filters
+*.suo
+*.VC.db
